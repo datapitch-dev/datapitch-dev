@@ -8,7 +8,7 @@ w których łatwo oszukać samego siebie, więc każdy projekt sprawdzam uczciwy
 
 #### Projekty
 
-| | |
+| Projekt | Opis |
 |---|---|
 | ⚽ [**footy-model**](https://github.com/datapitch-dev/footy-model) | Model Dixon-Coles dla 8 lig z backtestem walk-forward porównanym z kursami zamknięcia Pinnacle. Pokazuje, jak sprawdzić, czy model naprawdę bije rynek. |
 | 📈 [**invest-radar**](https://github.com/datapitch-dev/invest-radar) | Codzienny radar sygnałów giełdowych (GPW i USA): analiza techniczna, newsy, transakcje insiderów, weryfikacja przez Claude, dashboard w Streamlit. |
