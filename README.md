@@ -1,4 +1,4 @@
-### Cześć, tu datapitch 👋
+### Cześć, tu DataPitch 👋
 
 Piszę w Pythonie narzędzia do analizy danych: modele statystyczne, backtesty, dashboardy
 i aplikacje z modelami językowymi (Claude API). Najbardziej lubię dane sportowe i rynkowe,
