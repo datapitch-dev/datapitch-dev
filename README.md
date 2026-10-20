@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="DataPitch" width="240"></p>
+
 ### Cześć, tu DataPitch 👋
 
 Piszę w Pythonie narzędzia do analizy danych: modele statystyczne, backtesty, dashboardy
