@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.jpg" alt="DataPitch: Python, API, Data, AI" width="100%"></p>
+<p align="center"><img src="banner.png" alt="DataPitch: automatyzacja danych i raporty" width="100%"></p>
 
 ### Cześć, tu DataPitch 👋
 
